@@ -1,7 +1,7 @@
 Manual de usuario
 Vamos a explicar el paso a paso de cómo ejecutar el código por primera vez, te llevaremos de la mano para que no te pierdas 😊
 1.	Primero, necesitamos tener instalado Node.js (una biblioteca de JavaScript que se puede descargar desde la siguiente liga: https://nodejs.org/en).
-2.	Una vez instalada esa biblioteca, el código se puede ejecutar desde la terminal, o también se puede abrir el folder “NH” en Visual Studio y utilizar la terminal de VS para ejecutar el código.
+2.	Una vez instalada esa biblioteca, el código se puede ejecutar desde la terminal, o también se puede abrir el folder en Visual Studio y utilizar la terminal de VS para ejecutar el código.
 3.	Una vez en la terminal de nuestra elección, nos vamos a ubicar en la ruta de la carpeta “NH” y vamos a ejecutar el siguiente comando:
 npm run dev
 4.	En una nueva terminal hacemos lo mismo pero esta vez nos ubicamos en la carpeta “cripto” dentro de "NH" y ejecutamos el mismo comando.
